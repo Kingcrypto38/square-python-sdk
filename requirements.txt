@@ -3,3 +3,4 @@ apimatic-core-interfaces~=0.1.0
 apimatic-requests-client-adapter~=0.1.0
 python-dateutil~=2.8.1
 deprecation~=2.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
